@@ -1,21 +1,11 @@
-### Hi there 👋
+# Zoraiz Hassan
 
 [![Twitter](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/zoraiz-hassan/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=SeriousSapien)](https://twitter.com/cloudposse)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello there! I'm a computer science undergraduate trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly. Please don't hesitate to reach out if you wanna work on something cool :)
 
-## Github Stats
+<br>
 
-<p align = "center">
-<img width = 500 align="center" src="https://github-readme-stats.vercel.app/api?username=TheZoraiz&show_icons=true&count_private=true&theme=dark" alt="TheZoraiz's github stats"/>
-<img width = 500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZoraiz&show_icons=true&count_private=true&theme=dark&layout=compact" alt="oussamabouchikhi's github stats"/>
-</p>
+<img height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZoraiz&show_icons=true&count_private=true&theme=dark&layout=compact" alt="oussamabouchikhi's github stats"/>
