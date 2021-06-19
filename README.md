@@ -1,7 +1,7 @@
 ## Hey
 
 [![Twitter](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/zoraiz-hassan/)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/cloudposse)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/SeriousSapien)
 
 
 It appears that entropy has bought you here to stumble upon my humble domain. I'm just a computer science undergraduate trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly.
