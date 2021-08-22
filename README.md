@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/SeriousSapien)
 
 
-It appears that entropy has bought you here to stumble upon my humble domain. I'm just a computer science undergraduate trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly.
+It appears that entropy has brought you here to stumble upon my humble domain. I'm just a computer science undergraduate trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly.
 
 Please don't hesitate to reach out if you wanna work on something cool :)
 
