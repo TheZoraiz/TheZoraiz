@@ -5,7 +5,7 @@
 <!-- ![profile-views](https://komarev.com/ghpvc/?username=TheZoraiz&label=Profile+Views) -->
 
 
-It appears that entropy has brought you here to stumble upon my humble domain. I'm just a computer science undergraduate trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly.
+It appears that entropy has brought you here to stumble upon my humble domain. I'm just a CS nerd trying to build his place in the world of tech. I often create projects on whims or ideas I get randomly.
 
 <br>
 
